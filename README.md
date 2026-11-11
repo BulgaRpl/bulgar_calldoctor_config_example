@@ -1,2 +1,3 @@
-# bulgar_calldoctor_config_example
-bulgar_calldoctor_config_example
+# BulgaR Call Doctor Script
+
+Preview settings for my paid script
